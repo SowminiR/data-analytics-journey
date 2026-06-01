@@ -1,19 +1,27 @@
-# Day 1 - Excel Basics
+# Sales Data Analysis Project (Excel)
 
 ## Objective
-Learn basic Excel functions for data analysis.
+Analyze a simple retail dataset to identify sales patterns and business insights.
 
 ## Dataset
-Simple sales dataset with 5 products and sales values.
+Contains product-level sales data for 5 products.
 
-## Work Done
-- SUM function used to calculate total sales
-- AVERAGE function used to find mean sales
-- MAX and MIN used to identify best and worst products
-- COUNT used to find number of records
+## Analysis Performed
+- Total Sales calculation using SUM
+- Average Sales using AVERAGE
+- Identification of highest and lowest performing products using MAX/MIN
+- Count of total products
 
-## Key Insight
-Laptop contributes the majority of revenue, showing dependency on a single product.
+## Key Insights
+- Revenue is highly concentrated in one product (Laptop ~67% of total sales)
+- Mouse has significantly low contribution compared to other products
+- Sales distribution is uneven across products
 
-## Learning
-Learned how Excel functions help convert raw data into business insights.
+## Business Recommendation
+The company should reduce dependency on a single product and focus on improving low-performing categories.
+
+## Tools Used
+Google Sheets / Excel
+
+## Outcome
+Converted raw data into actionable business insights using basic Excel functions.
